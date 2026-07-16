@@ -22,7 +22,7 @@ int main()
     }
     else
     {
-        printf("Damage: %d\n", baseDamage);
+        printf("Damage: %d(Normal)\n", baseDamage);
     }
 
     return 0;
